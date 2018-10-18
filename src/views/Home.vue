@@ -1,14 +1,13 @@
 <template>
   <div class="app">
     <div class="content">
-      <Search :cityData="cityData" v-on:cityChanged="cityChange" v-on:searchJob="searchJob" />
+      <Search :cityData="cityData" @cityChanged="cityChange" @searchJob="searchJob" />
       <JobList :jobData="jobData" />
     </div>
   </div>
 </template>
 
 <script>
-import axios from "axios";
 import CityJson from "../data/city.json";
 import JobData from "../data/data.json";
 //components
