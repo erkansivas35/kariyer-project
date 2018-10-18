@@ -39,6 +39,8 @@ export default {
 </script>
 
 <style lang="scss">
+@import "../assets/css/responsive-mixin.scss";
+
 .job-search {
   width: 100%;
   display: flex;
@@ -61,10 +63,19 @@ export default {
 
   & select {
     width: 20%;
+
+    @include mq("mobile") {
+      width: 100%;
+      margin-bottom: 10px;
+    }
   }
 
   & input {
     width: calc(80% - 52px);
+
+    @include mq("mobile") {
+      width: 100%;
+    }
   }
 
   & .info {

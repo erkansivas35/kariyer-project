@@ -20,7 +20,7 @@ export default {
     return {
       cityData: [],
       jobData: [],
-      cityPlate: ''
+      cityPlate: ""
     };
   },
   methods: {
@@ -32,9 +32,10 @@ export default {
     },
     searchJob(seachQuery) {
       this.jobData = JobData.result.items.filter(query => {
-        return query.positionName
-          .toLowerCase()
-          .includes(seachQuery.toLowerCase()) && query.cityPlate.includes(this.cityPlate);
+        return (
+          query.positionName.toLowerCase().includes(seachQuery.toLowerCase()) &&
+          query.cityPlate.includes(this.cityPlate)
+        );
       });
     }
   },
@@ -47,6 +48,8 @@ export default {
 </script>
 
 <style lang="scss">
+@import "../assets/css/responsive-mixin.scss";
+
 .app {
   width: 100%;
   display: flex;
@@ -56,6 +59,11 @@ export default {
   .content {
     max-width: 768px;
     width: 100%;
+
+    @include mq("tablet") {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
   }
 }
 </style>
