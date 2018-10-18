@@ -1,0 +1,135 @@
+{
+  "version": "1.0",
+  "statusCode": 200,
+  "result": {
+    "items": [
+      {
+        "jobId": "C71CD1954BA149BCAF42B25F775EA4FB",
+        "positionName": "Gerber Operatörü",
+        "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "İstanbul",
+        "cityPlate": "34",
+        "townName": "Çengelköy Mahallesi",
+        "dateTime": "18.10.2018",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
+      },
+      {
+        "jobId": "C71CD1954BA149BCAF42B25F775EA4FA",
+        "positionName": "Ön Muhasebe Elemanı",
+        "companyName": "MN EĞİTİM ÖĞRETİM YAYINCILIK SAN.TİC.LTD.ŞTİ",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "İzmir",
+        "cityPlate": "35",
+        "townName": "Bornova",
+        "dateTime": "18.10.2018",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
+      },
+      {
+        "jobId": "C71CD1954BA149BCAF42B25F775EA4FZ",
+        "positionName": "Muhasebe Uzmanı",
+        "companyName": "Synevo Laboratuvarları",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "Ankara",
+        "cityPlate": "6",
+        "townName": "Dikmen",
+        "dateTime": "18.10.2018",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
+      },
+      {
+        "jobId": "C71CD1954BA149BCAF42B25F775EA4FC",
+        "positionName": "Danışman",
+        "companyName": "Kenzimen Tobacco Tütün Mamülleri San. ve Tic.Ltd.Şti.",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "İzmir",
+        "cityPlate": "35",
+        "townName": "Alsancak",
+        "dateTime": "18.10.2018",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
+      },
+      {
+        "jobId": "C71CD1954BA149BCAF42B25F775EA4FD",
+        "positionName": "Proje Asistanı",
+        "companyName": "ZON TURİZMORGANİZASYON TİC.LTD.",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "İstanbul",
+        "cityPlate": "34",
+        "townName": "Üsküdar",
+        "dateTime": "18.10.2018",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
+      },
+      {
+        "jobId": "C71CD1954BA149BCAF42B25F775EA4FE",
+        "positionName": "Mobil Uygulama Geliştiricisi",
+        "companyName": "Classified ad",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "İstanbul",
+        "cityPlate": "34",
+        "townName": "Ümraniye",
+        "dateTime": "18.10.2018",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
+      }
+    ],
+    "total": 1
+  }
+}
