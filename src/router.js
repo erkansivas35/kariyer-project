@@ -12,13 +12,13 @@ export default new Router({
     {
       path: "/joblist",
       name: "home",
-      component: Home,
+      component: Home
     },
     {
-      path: "/jobdetail/:id", 
+      path: "/jobdetail/:id",
       name: "jobDetail",
-      component: JobDetail,
+      component: JobDetail
     },
-    { path: '/', redirect: '/joblist' }
+    { path: "/", redirect: "/joblist" }
   ]
 });

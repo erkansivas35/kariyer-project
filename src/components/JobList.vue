@@ -16,6 +16,9 @@
       </div>
     </router-link>
   </div>
+  <div class="job-not-found" v-if="jobData.length == 0">
+    <p>Aradığınız kriterlere uygun ilan bulunamamıştır.</p>
+  </div>
 </div>
 </template>
 
@@ -30,7 +33,7 @@ export default {
   },
   methods: {
     jobDetailGo(id) {
-      return `/jobdetail/${id}`
+      return `/jobdetail/${id}`;
     }
   }
 };
@@ -55,6 +58,14 @@ export default {
       text-decoration: none;
       color: #2c3e50;
     }
+  }
+
+  .job-not-found {
+    height: calc(100vh - 118px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
   }
 }
 </style>
